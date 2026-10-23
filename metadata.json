@@ -1,0 +1,6 @@
+{
+  "name": "PayRemit Mobile Prototype",
+  "description": "bKash-inspired mobile financial app prototype with local phone validation and Payoneer redirect flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
